@@ -1,0 +1,16 @@
+{
+    "name": "nearsoft/php-seleniumclient",
+    "description": "PHP interaction with Selenium Webdriver API",
+    "authors": [
+    {
+    }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-0": {
+            "SeleniumClient": "./"
+        }
+    }
+}
