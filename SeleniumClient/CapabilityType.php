@@ -33,6 +33,7 @@ abstract class CapabilityType {
 	const acceptSslCerts = "acceptSslCerts";
 	const nativeEvents = "nativeEvents";
 	const proxy = "proxy";	
+        const firefoxProfile = "firefox_profile";
 	
 	public static function isValidCapabilityType($capabilityType)
 	{
